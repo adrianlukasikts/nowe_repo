@@ -5,3 +5,5 @@ b = 10
 def a():
     pass
 print("A")
+
+k = 5

@@ -6,13 +6,9 @@ def a():
     pass
 print("A")
 
-<<<<<<< HEAD
 k = 5
 av = 5
 gag = 44
 af = 5
 adsf = 5
-=======
-adsf = 5
 f = ""
->>>>>>> e8f6771 (g)

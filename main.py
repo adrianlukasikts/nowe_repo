@@ -7,3 +7,4 @@ def a():
 print("A")
 
 k = 5
+av = 5

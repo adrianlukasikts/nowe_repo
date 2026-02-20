@@ -14,3 +14,4 @@ adsf = 5
 f = ""
 
 o gustach sie nie dyskutuje
+zamiana z dwojkowego na binarny

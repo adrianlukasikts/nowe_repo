@@ -12,3 +12,5 @@ gag = 44
 af = 5
 adsf = 5
 f = ""
+
+o gustach sie nie dyskutuje
